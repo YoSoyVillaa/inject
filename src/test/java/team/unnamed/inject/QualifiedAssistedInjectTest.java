@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import javax.inject.Inject;
-import javax.inject.Named;
 
 public class QualifiedAssistedInjectTest {
 
